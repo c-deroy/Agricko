@@ -3,8 +3,6 @@
 # 🌿 **Agricko**  
 ### _Sustainable Agriculture Website_
 
-Website_
-
 ![Agricko Banner](https://github.com/yourusername/agricko/blob/main/images/banner.png?raw=true)
 
 [![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)]()
