@@ -45,11 +45,11 @@ It aims to promote sustainable farming, organic living, and environmental awaren
 
 Agricko/
 │
-├── images/                # All project images and icons
+├── images/               
 │
-├── index.html             # Main HTML file
-├── style.css              # CSS styling file
-└── README.md              # This documentation
+├── index.html             
+├── style.css              
+└── README.md              
 
 ---
 
