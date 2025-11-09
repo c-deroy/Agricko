@@ -5,7 +5,7 @@
 
 Website_
 
-![Agricko Banner](https://github.com/yourusername/agricko/blob/main/images/banner.png?raw=true)
+![Agricko Banner](/images/hero-image.png)
 
 [![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)]()
