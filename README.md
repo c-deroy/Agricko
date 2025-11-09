@@ -56,7 +56,7 @@ Agricko/
 ## ⚙️ How to Use
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/agricko.git
+   git clone https://github.com/c-deroy/agricko.git
 
 2.	Open the project in VS Code
 cd agricko
@@ -76,7 +76,9 @@ You can easily personalize your Agricko site by:
 👨‍💻 Developer
 
 👤 Carlos Dëroy
+
 🎨 Frontend Designer & Developer
+
 💼 Tools: VS Code, HTML, CSS, GitHub
 
 📫 Reach me:
